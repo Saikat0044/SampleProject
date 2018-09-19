@@ -1,0 +1,3 @@
+echo "This is the first project created in Github"
+echo "This file is created locally"
+exit
